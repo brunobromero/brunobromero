@@ -1,4 +1,8 @@
 ## Olá! Eu sou Bruno Romero!
+
+👨‍💻 Atualmente estou trabalhando como freelancer desenvolvendo, de forma fullstack, sites e aplicações.<br>
+📜 Estou aprendendo mais sobre desenvolvimento web no curso Web Developer da <a href="https://awari.com.br/" target="_blank">Awari</a>.
+<br><br>
   <a href="https://github.com/brunobromero">
   <img src="https://github-readme-stats.vercel.app/api?username=brunobromero&show_icons=true&count_private=true&theme=vue">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobromero&layout=compact&theme=vue">
