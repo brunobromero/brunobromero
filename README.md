@@ -29,4 +29,14 @@
    <a href="https://www.instagram.com/brunobromero/" title="Me encontre no Instagram" target="_blank"><img height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
   </div>
    <hr width="20%">
+   
+## Alguns trabalhos:
 
+<p align="center"><a href="http://www.aelloseguros.com.br/" target="_blank"><kbd><img align="center" title="Aello" width="400px" src="https://github.com/brunobromero/brunobromero/blob/main/aello.png"></kbd></a></p>
+<p align="center"><a href="https://www.cinquesensi.com.br/" target="_blank"><kbd><img align="center" title="Cinque Sensi" width="400px" src="https://github.com/brunobromero/brunobromero/blob/main/cinque.png"></kbd></a></p>
+<p align="center"><a href="https://www.itaimgroup.com.br/" target="_blank"><kbd><img align="center" title="Itaim Group" width="400px" src="https://github.com/brunobromero/brunobromero/blob/main/itaim.png"></kbd></a></p>
+<p align="center"><a href="https://www.katarzze.com/" target="_blank"><kbd><img align="center" title="Katarzze" width="400px" src="https://github.com/brunobromero/brunobromero/blob/main/katarzze.png"></kbd></a></p>
+<p align="center"><a href="https://www.robin-ruth.com.br/" target="_blank"><kbd><img align="center" title="Robin-Ruth Brasil" width="400px" src="https://github.com/brunobromero/brunobromero/blob/main/robin.png"></kbd></a></p>
+<p align="center"><a href="https://souvenirdiangela.com.br/" target="_blank"><kbd><img align="center" title="Souvenir Di Angela" width="400px" src="https://github.com/brunobromero/brunobromero/blob/main/souvenir.png"></kbd></a></p>
+ 
+<hr width="20%">
