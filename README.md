@@ -23,7 +23,7 @@
   
   ## Me encontre:
   <div>
-    <a href="https://api.whatsapp.com/send?phone=5511941869797" title="Me chame no Whatsapp" target="_blank"><img height="25px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-     badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://api.whatsapp.com/send?phone=5511941869797" title="Me chame no Whatsapp" target="_blank"><img height="25px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
   <a href="mailto:brunoromero@gmail.com" title="Me mande um Gmail" target="_blank"><img height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bruno-romero-a685aa55/" title="Me encontre no Linkedin" target="_blank"><img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
    <a href="https://www.instagram.com/brunobromero/" title="Me encontre no Instagram" target="_blank"><img height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
